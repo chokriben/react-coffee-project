@@ -15,7 +15,9 @@ export default function About() {
                     <div className="xl:w-2/3 animate-fadein-top m-10">
                         <div className={`max-w-3xl mx-auto px-4 xl:px-0 md:ml-16 opacity-0 ${isVisible && 'animate-fadein-bottom opacity-100'}`}>
                             <h2 className="text-3xl md:text-5xl font-serif leading-normal lg:leading-relaxed">Café du Don which brought together coffee cultures from all over the world in sfax.</h2>
-                            <p className="mt-3 sm:mt-5 text-lg md:text-xl md:leading-normal font-light">Le café est un stimulant du système nerveux central, il va donc permettre de donner un boost en énergie.</p>
+                            <p className="mt-3 sm:mt-5 text-lg md:text-xl md:leading-normal font-light">À travers nos cafés, nous vous proposons un voyage sur les terroirs les plus riches du monde. Des terres spécifiques d’où les caféiers puisent par les racines tous leurs arômes et leurs intensités. De l’Indonésie à l’Amérique Centrale en passant par l’Afrique et l’Amérique du sud, c’est une trentaine cafés que nous vous proposons.
+                                                                                                         Laissez-vous séduire par notre gamme certifiée Agriculture Biologique par 
+                                                                                                          l’organisme Ecocert et nos Blends Signature, des associations subtiles de différents cafés spécialement concoctés par notre artisan élu Meilleur Torréfacteur de France.</p>
                         </div>  
                     </div>
                     <div className="xl:w-1/3 flex flex-wrap xl:px-0 m-5 pl-3 md:pl-16 xl:pl-0">
